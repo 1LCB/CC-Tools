@@ -1,0 +1,14 @@
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC Checker.csproj.AssemblyReference.cache
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC Checker.csproj.GenerateResource.cache
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC Checker.csproj.CoreCompileInputs.cache
+E:\programação C#\CC Checker\CC Checker\bin\Debug\Newtonsoft.Json.dll
+E:\programação C#\CC Checker\CC Checker\bin\Debug\Newtonsoft.Json.xml
+E:\programação C#\CC Checker\CC Checker\bin\Debug\CC Tools.exe.config
+E:\programação C#\CC Checker\CC Checker\bin\Debug\CC Tools.exe
+E:\programação C#\CC Checker\CC Checker\bin\Debug\CC Tools.pdb
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC_Tools.Binners.resources
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC_Tools.Main.resources
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC_Tools.Properties.Resources.resources
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC Checker.csproj.CopyComplete
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC Tools.exe
+E:\programação C#\CC Checker\CC Checker\obj\Debug\CC Tools.pdb
