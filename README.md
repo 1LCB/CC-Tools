@@ -1,6 +1,7 @@
 # CC Tools 🚀
 This is a simple program with some CC Tool, it works basically with Luhn algorithm and Regex.
-  
+<img src='cc tools img.png'>
+
 # Features 🌠
 
 ## CC Generator
