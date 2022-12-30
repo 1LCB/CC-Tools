@@ -1,4 +1,7 @@
 # CC Tools 🚀
+![GitHub repo size](https://img.shields.io/github/repo-size/1LCB/cc-tools?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/1LCB/cc-tools?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/1LCB/cc-tools?style=for-the-badge)
 
 This is a simple program with some CC Tool, it works basically with Luhn algorithm and Regex.
 
